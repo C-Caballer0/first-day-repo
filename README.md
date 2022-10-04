@@ -1,2 +1,2 @@
 # first-day-repo
-First Day Repository
+First Day Repository for University of Toronto Bootcamp
